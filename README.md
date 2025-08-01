@@ -36,8 +36,8 @@ Welcome to my GitHub! I'm a passionate Computer Science student at NED Universit
 ---
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/fatima-azfar-85b881324/))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fatimaazfar06@gmail.com)
+LinkedIn: https://www.linkedin.com/in/fatima-azfar-85b881324/
+Gmail: fatimaazfar06@gmail.com
 
 ---
 
