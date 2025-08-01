@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate Computer Science student at NED Universit
 ## 👩‍💻 About Me & Interests
 
 - 🎓 CS undergrad at **NED University**
-- 💼 Currently a **Front-End Development Intern at Verior Codelabb**, building modern and responsive UIs using React and Tailwind CSS
+- 💼 Currently a **Front-End Development Intern at Verior Codelab**, building modern and responsive UIs using React and Tailwind CSS
 - 🌐 Experienced in **Web Development**, including HTML, CSS, JavaScript, and modern frameworks
 - 🤖 Expanding my knowledge through **research in Artificial Intelligence and Machine Learning**
 - 💡 Started my programming journey with **C and C++**, building strong foundations in logic, problem-solving, and object-oriented programming
